@@ -1,8 +1,8 @@
-# 🐍 LISTS IN PYTHON
+# LISTS IN PYTHON
 
 ---
 
-# 📚 1. What is a List?
+# 1. What is a List?
 
 A **List** in Python is a collection of items that are **ordered, mutable (changeable), and allow duplicate elements**.
 
@@ -12,7 +12,7 @@ Python lists are widely used because they are **flexible and easy to modify**.
 
 ---
 
-# ✨ Features of Python Lists
+# Features of Python Lists
 
 ✔ Ordered collection of elements  
 ✔ Mutable (elements can be changed)  
@@ -22,12 +22,12 @@ Python lists are widely used because they are **flexible and easy to modify**.
 
 ---
 
-# 🧾 Syntax
+#  Syntax
 
 ```python
 my_list = [element1, element2, element3, ...]
 
-💡 Example
+Example
 fruits = ["apple", "banana", "cherry"]
 numbers = [1, 2, 3, 4, 5]
 mixed = ["apple", 3, True]
@@ -38,7 +38,7 @@ fruits → List of strings
 numbers → List of integers
 mixed → List containing different data types
 
-🔎 Accessing Elements in a List
+ Accessing Elements in a List
 
 Elements in a list are accessed using index numbers.
 
@@ -53,7 +53,7 @@ Output:
 
 apple
 banana
-🔄 Modifying List Elements
+ Modifying List Elements
 
 Lists are mutable, which means their values can be changed.
 
