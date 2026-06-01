@@ -1,4 +1,4 @@
-# LISTS IN PYTHON
+6# LISTS IN PYTHON
 
 ---
 
@@ -66,7 +66,7 @@ print(fruits)
 Output:
 
 ['apple', 'orange', 'cherry']
-➕ Adding Elements to a List
+ Adding Elements to a List
 
 You can add elements using append().
 
@@ -79,7 +79,7 @@ print(fruits)
 Output:
 
 ['apple', 'banana', 'cherry']
-➖ Removing Elements from a List
+ Removing Elements from a List
 
 You can remove elements using remove().
 
@@ -92,7 +92,7 @@ print(fruits)
 Output:
 
 ['apple', 'cherry']
-📏 Length of a List
+📏Length of a List
 
 The len() function returns the number of elements in a list.
 
