@@ -1,5 +1,5 @@
 
-### **2. Accessing List Elements**
+### **2 Accessing List Elements**
 
 You can access individual elements in a list using **indexing**. Remember that Python uses **zero-based indexing**, so the first item is at index 0.
 
