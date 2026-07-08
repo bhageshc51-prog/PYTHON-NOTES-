@@ -82,7 +82,7 @@ print(y)  # Output: 20
 print(z)  # Output: 30
 ```
 
-You can also assign the same value to multiple variables in one line:
+You can also assign the same value to multiple variables in one line
 ```python
 x = y = z = 100
 print(x, y, z)  # Output: 100 100 100
