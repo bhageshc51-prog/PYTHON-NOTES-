@@ -21,7 +21,7 @@ x *= 4  # Equivalent to x = x * 4, now x is 24
 x /= 6  # Equivalent to x = x / 6, now x is 4.0
 ```
 
-----
+
 
 ### **2. Comparison Operators**
 
