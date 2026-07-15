@@ -6,7 +6,7 @@ Assignment operators are used to assign values to variables. The simplest one is
 
 #### **Common Assignment Operators:**
 - `=`: Assigns value on the right to the variable on the left.
-- `+=`: Adds right operand to the left operand and assigns the result to the left operand.
+- `+=`: Adds right operand to the left operand and assigns the result to the left operand
 - `-=`: Subtracts the right operand from the left operand and assigns the result to the left operand.
 - `*=`: Multiplies the left operand by the right operand and assigns the result to the left operand.
 - `/=`: Divides the left operand by the right operand and assigns the result to the left operand.
