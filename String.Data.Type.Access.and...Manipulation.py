@@ -15,7 +15,7 @@ The `print()` function is used to display output to the console. You can use it 
 
 ```python
 print("Hello, " + name + "! You are " + str(age) + " years old.")
-```
+
 
 You can also use **f-strings** (formatted string literals) for more readable code:
 ```python
