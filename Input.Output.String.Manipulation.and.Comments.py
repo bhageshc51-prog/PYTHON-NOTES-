@@ -98,7 +98,7 @@ Comments are ignored by the Python interpreter and are used to explain the code 
   ```python
   """
   This is a multi-line comment.
-  It can span multiple lines.
+  It can span multiple lines
   """
   print("Hello, Python!")
   ```
