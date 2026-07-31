@@ -22,7 +22,7 @@ You can also use **f-strings** (formatted string literals) for more readable cod
 print(f"Hello, {name}! You are {age} years old.")
 ```
 
----
+
 
 ### **2. String Manipulation**
 
