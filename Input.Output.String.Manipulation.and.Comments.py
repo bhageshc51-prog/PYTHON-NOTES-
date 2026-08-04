@@ -36,7 +36,7 @@ Strings are sequences of characters. Python provides many useful methods to mani
   last_name = "Doe"
   full_name = first_name + " " + last_name
   print(full_name)  # Output: "John Doe"
-  ```
+  ``
 
 - **Repetition**: Repeating a string multiple times using the `*` operator.
   ```python
