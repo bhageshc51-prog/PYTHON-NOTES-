@@ -36,7 +36,7 @@ Comparison operators are used to compare two values. They return either `True` o
 - `<=`: Checks if the left operand is less than or equal to the right operand.
 
 #### **Examples**:
-```python
+python
 a = 10
 b = 20
 
