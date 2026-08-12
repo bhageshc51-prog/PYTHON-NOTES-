@@ -42,7 +42,7 @@ Strings are sequences of characters. Python provides many useful methods to mani
   ```python
   greeting = "Hello! " * 3
   print(greeting)  # Output: "Hello! Hello! Hello! "
-  ```
+  
 
 #### **2.2 String Methods:**
 - `upper()`: Converts a string to uppercase.
