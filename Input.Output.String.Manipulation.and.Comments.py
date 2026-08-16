@@ -55,7 +55,7 @@ message = "  Hello, World!  "
 print(message.strip())  # Output: "Hello, World!"
 print(message.upper())  # Output: "HELLO, WORLD!"
 print(message.replace("World", "Python"))  # Output: "Hello, Python!"
-```
+
 
 #### **2.3 Accessing String Characters:**
 You can access individual characters in a string using **indexing**. Python uses zero-based indexing, so the first character has an index of 0.
