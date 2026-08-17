@@ -70,7 +70,7 @@ You can also use **negative indexing** to start counting from the end of the str
 ```python
 print(text[-1])  # Output: n
 print(text[-3])  # Output: h
-```
+
 
 #### **2.4 Slicing Strings:**
 You can extract a portion (substring) of a string using slicing.
