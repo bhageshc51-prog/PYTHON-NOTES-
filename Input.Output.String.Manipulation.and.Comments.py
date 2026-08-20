@@ -64,7 +64,7 @@ You can access individual characters in a string using **indexing**. Python uses
 text = "Python"
 print(text[0])  # Output: P
 print(text[2])  # Output: t
-```
+
 
 You can also use **negative indexing** to start counting from the end of the string.
 ```python
