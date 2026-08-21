@@ -48,7 +48,7 @@ print(a >= 10)  # Output: True
 print(b <= 25)  # Output: True
 ```
 
----
+
 
 ### **3. Logical Operators**
 
