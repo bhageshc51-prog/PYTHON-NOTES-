@@ -82,7 +82,7 @@ print(text[:6])  # Output: Python (same as above)
 print(text[7:])  # Output: Programming (from index 7 to the end)
 
 
----
+
 
 ### **3. Comments in Python**
 
