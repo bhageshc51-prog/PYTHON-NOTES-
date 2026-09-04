@@ -95,7 +95,7 @@ Comments are ignored by the Python interpreter and are used to explain the code 
   ```
 
 - **Multi-line comments** can be written using triple quotes (`"""` or `'''`). These are often used to write detailed explanations or temporarily block sections of code:
-  ```python
+  ``python
   """
   This is a multi-line comment.
   It can span multiple lines
