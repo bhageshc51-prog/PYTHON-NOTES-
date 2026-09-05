@@ -75,7 +75,7 @@ print(text[-3])  # Output: h
 #### **2.4 Slicing Strings:**
 You can extract a portion (substring) of a string using slicing.
 
-```python
+python
 text = "Python Programming"
 print(text[0:6])  # Output: Python (extracts from index 0 to 5)
 print(text[:6])  # Output: Python (same as above)
