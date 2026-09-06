@@ -103,7 +103,7 @@ Comments are ignored by the Python interpreter and are used to explain the code 
   print("Hello, Python!")
   ```
 
----
+
 
 ### **4. Escape Sequences**
 Escape sequences are special characters in strings that start with a backslash (`\`). They are used to represent certain special characters.
