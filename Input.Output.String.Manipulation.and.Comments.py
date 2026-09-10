@@ -60,7 +60,7 @@ print(message.replace("World", "Python"))  # Output: "Hello, Python!"
 #### **2.3 Accessing String Characters:**
 You can access individual characters in a string using **indexing**. Python uses zero-based indexing, so the first character has an index of 0.
 
-```python
+``python
 text = "Python"
 print(text[0])  # Output: P
 print(text[2])  # Output: t
