@@ -51,7 +51,7 @@ Strings are sequences of characters. Python provides many useful methods to mani
 - `replace(old, new)`: Replaces a substring with another string.
 
 ```python
-message = "  Hello, World!  "
+message = "  Hello, World!  
 print(message.strip())  # Output: "Hello, World!"
 print(message.upper())  # Output: "HELLO, WORLD!"
 print(message.replace("World", "Python"))  # Output: "Hello, Python!"
