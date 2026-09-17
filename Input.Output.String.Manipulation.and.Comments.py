@@ -18,7 +18,7 @@ print("Hello, " + name + "! You are " + str(age) + " years old.")
 
 
 You can also use **f-strings** (formatted string literals) for more readable code:
-```python
+``python
 print(f"Hello, {name}! You are {age} years old.")
 
 
