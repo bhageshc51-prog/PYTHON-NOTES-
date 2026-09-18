@@ -13,7 +13,7 @@ age = int(input("Enter your age: "))  # Convert input to integer
 #### **1.2 Output to the Console:**
 The `print()` function is used to display output to the console. You can use it to display text, variables, or results of expressions.
 
-```python
+``python
 print("Hello, " + name + "! You are " + str(age) + " years old.")
 
 
