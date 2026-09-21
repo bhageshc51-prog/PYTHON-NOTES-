@@ -30,7 +30,7 @@ Strings are sequences of characters. Python provides many useful methods to mani
 
 #### **2.1 Common String Operations:**
 
-- **Concatenation**: Joining two or more strings together using the `+` operator.
+ **Concatenation**: Joining two or more strings together using the `+` operator.
   ``python
   first_name = "John"
   last_name = "Doe"
