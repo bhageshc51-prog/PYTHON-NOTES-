@@ -39,7 +39,7 @@ Strings are sequences of characters. Python provides many useful methods to mani
   
 
  **Repetition**: Repeating a string multiple times using the `*` operator.
-  ``python
+  `python
   greeting = "Hello! " * 3
   print(greeting)  # Output: "Hello! Hello! Hello! "
   
