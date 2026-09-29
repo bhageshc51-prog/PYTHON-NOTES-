@@ -45,7 +45,7 @@ Strings are sequences of characters. Python provides many useful methods to mani
   
 
 #### **2.2 String Methods:**
-- `upper()`: Converts a string to uppercase.
+ `upper()`: Converts a string to uppercase.
 - `lower()`: Converts a string to lowercase.
 - `strip()`: Removes leading and trailing spaces from a string.
 - `replace(old, new)`: Replaces a substring with another string.
