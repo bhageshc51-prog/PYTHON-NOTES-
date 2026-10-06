@@ -28,7 +28,7 @@ print(f"Hello, {name}! You are {age} years old.")
 
 Strings are sequences of characters. Python provides many useful methods to manipulate strings.
 
-#### **2.1 Common String Operations:**
+### **2.1 Common String Operations:**
 
  **Concatenation**: Joining two or more strings together using the `+` operator.
   `python
