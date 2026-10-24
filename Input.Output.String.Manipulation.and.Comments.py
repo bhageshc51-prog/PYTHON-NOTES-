@@ -24,7 +24,7 @@ print(f"Hello, {name}! You are {age} years old.")
 
 
 
-### **2. String Manipulation**
+##**2. String Manipulation**
 
 Strings are sequences of characters. Python provides many useful methods to manipulate strings.
 
