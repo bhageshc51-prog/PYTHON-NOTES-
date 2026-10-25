@@ -84,7 +84,7 @@ print(text[7:])  # Output: Programming (from index 7 to the end)
 
 
 
-### **3. Comments in Python**
+**3. Comments in Python**
 
 Comments are ignored by the Python interpreter and are used to explain the code or leave notes for yourself or others. They do not affect the execution of the program.
 
