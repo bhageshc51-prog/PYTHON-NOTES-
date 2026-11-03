@@ -50,7 +50,7 @@ Strings are sequences of characters. Python provides many useful methods to mani
 - `strip()`: Removes leading and trailing spaces from a string.
  `replace(old, new)`: Replaces a substring with another string.
 
-```python
+python
 message = "  Hello, World!  
 print(message.strip())  # Output: "Hello, World!"
 print(message.upper())  # Output: "HELLO, WORLD!"
