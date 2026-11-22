@@ -1,4 +1,4 @@
-*Input/Output, String Manipulation, and Comments**
+, String Manipulation, and Comments**
 
 ### **1. Input and Output in Python**
 
