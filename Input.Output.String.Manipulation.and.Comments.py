@@ -8,7 +8,7 @@ In Python, we use the `input()` function to take input from the user. The data e
 age = int(input("Enter your age: "))  # Convert input to integer
 
 
-1.2 Output to the Console:**
+to the Console:**
 `print()` function is used to display output to the console. You can use it to display text, variables, or results of expressions.
 
 
