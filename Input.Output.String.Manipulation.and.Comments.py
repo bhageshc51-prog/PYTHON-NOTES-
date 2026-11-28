@@ -10,7 +10,7 @@ to the Console:**
 `print()` function is used to display output to the console. You can use it to display text, variables, or results of expressions.
 
 
-("Hello, " + name + "! You are " + str(age) + " years old.")
+(+ name + "! You are " + str(age) + " years old.")
 
 
 You can also use **f-strings** (formatted string literals) for more readable code:
